@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Yezhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thu17cyz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **THU17cyz/THU17cyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
